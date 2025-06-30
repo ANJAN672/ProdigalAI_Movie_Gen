@@ -1,4 +1,4 @@
-# 3D Animation Scene Setup Automation in Blender
+# Movie Generation -- Prodigal AI
 
 ## Project Overview
 
